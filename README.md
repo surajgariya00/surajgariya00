@@ -14,36 +14,27 @@
 ---
 
 ## 🚀 Now
-- 🔭 Shipping: **[Current project/app name]** (Flutter + Node.js + AWS)
-- 🌱 Exploring: **[e.g., AWS CDK / Clean Architecture in Flutter / gRPC]**
-- 🤝 Open to: **Freelance & collaborations** in mobile + cloud projects
+- Calm Companion: **[Current project/app name]** (Flutter + Node.js + AWS)
+- ProofHire: **[e.g., AWS CDK / Clean Architecture in Flutter / gRPC]**
+- Open to: **Freelance & collaborations** in mobile + cloud projects
 
 ---
 
 ## ✨ Highlights
-- **[Project A]** — one-line what it solves & for whom.  
-  _Flutter · Node.js · AWS_ · [🔗 Demo](#) • [📂 Repo](#)
+- **[Crypton]** — Crypton is a cross-platform mobile app built with Flutter that helps users understand, monitor, and control how apps use their personal data..  
+  _Flutter · Node.js · AWS_ • [📂 [Repo](https://github.com/surajgariya00/crypton)](#)
 
-- **[Project B]** — one-line value (impact/result).  
-  _Flutter · Firebase_ · [🔗 Demo](#) • [📂 Repo](#)
-
-- **[Project C]** — one-liner with numbers if any.  
-  _Dart · Cloud Run_ · [🔗 Demo](#) • [📂 Repo](#)
+- **[Proofhire]** — A two-sided app where candidates apply with verifiable proof of skills (short work samples, auto-checked tasks, portfolio evidence) and companies hire from structured shortlists with clear compensation, requirements, and calibrated assessments—not résumés alone..  
+  _Flutter · Firebase_ • [📂 [Repo](https://github.com/surajgariya00/proofhire)](#)
 
 ---
 
 ## 🧰 Toolbox
 Flutter · Dart · Node.js · Express · React  
 PostgreSQL · MongoDB · REST · GraphQL  
-Docker · AWS (Lambda, API Gateway, S3, RDS, CloudWatch)  
+Docker · AWS (Lambda, API Gateway, S3, RDS, CloudWatch, SNS, SES, CloudFront)  
 Firebase · GitHub Actions
 
----
-
-## 🛠️ Recent Work
-- 🧩 **[Project One]** — short what/why. [Demo](#) • [Repo](#)  
-- 🧪 **[Project Two]** — short what/why. [Demo](#) • [Repo](#)  
-- 📱 **[Starter/Template]** — reusable base for apps. [Repo](#)
 
 ---
 
