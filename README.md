@@ -14,7 +14,6 @@
 ---
 
 ## 🚀 Now
-- Calm Companion: **[Current project/app name]** (Flutter + Node.js + AWS)
 - ProofHire: **[e.g., AWS CDK / Clean Architecture in Flutter / gRPC]**
 - Open to: **Freelance & collaborations** in mobile + cloud projects
 
