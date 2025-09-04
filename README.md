@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=700&color=12A195&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Suraj+Singh+Gariya+%F0%9F%91%8B;I+build+from+pixel+to+production;Flutter+%7C+Node.js+%7C+AWS+%7C+DevOps" alt="Typing SVG"/>
 </p>
 
-<h1 align="center">👋 Hi, I'm Suraj</h1>
+
 <p align="center">
   I craft pragmatic applications end-to-end — from <b>pixel</b> to <b>production</b>.<br/>
   <b>Flutter</b> · <b>Node.js</b> · <b>AWS</b> · <b>DevOps</b>
