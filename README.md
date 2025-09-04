@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=700&color=12A195&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Suraj+Singh+Gariya+%F0%9F%91%8B;I+build+from+pixel+to+production;Flutter+%7C+Node.js+%7C+AWS+%7C+DevOps" alt="Typing SVG"/>
 </p>
 
-
+<h1 align="center">👋 Hi, I'm Suraj</h1>
 <p align="center">
   I craft pragmatic applications end-to-end — from <b>pixel</b> to <b>production</b>.<br/>
   <b>Flutter</b> · <b>Node.js</b> · <b>AWS</b> · <b>DevOps</b>
@@ -18,6 +18,7 @@
 ---
 
 ### 🚀 What I’m doing now
+
 - **ProofHire** — (Flutter + Firebase) building verifiable, evidence-based hiring.
 - Exploring **AWS CDK**, **clean architecture in Flutter**, **gRPC**.
 - Open to **freelance & collaborations** in mobile + cloud projects.
@@ -25,6 +26,7 @@
 ---
 
 ### 🧰 Tech & DevOps
+
 <p>
   <!-- Core -->
   <img alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="32"/>
@@ -47,6 +49,7 @@
 ---
 
 ### ✨ Featured projects
+
 - **Crypton** — Cross-platform app helping users understand & control how apps use their personal data.  
   _Flutter · Node.js · AWS_ • [Repo](https://github.com/surajgariya00/crypton)
 
@@ -56,8 +59,11 @@
 ---
 
 ### 🆕 Latest repositories (auto-updated)
+
 <!-- LATEST_REPOS:start -->
+
 Loading...
+
 <!-- LATEST_REPOS:end -->
 
 > This list refreshes every ~6 hours via GitHub Actions.
@@ -65,6 +71,7 @@ Loading...
 ---
 
 ### 📈 GitHub at a glance
+
 <p align="left">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=surajgariya00&show_icons=true&theme=transparent&rank_icon=github" alt="stats"/>
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=surajgariya00&theme=transparent" alt="streak"/>
@@ -76,9 +83,14 @@ Loading...
 ---
 
 ### 📬 Contact
-- 🌐 Portfolio: <a href="https://surajgariya00.github.io/my_profile/">surajgariya00.github.io/my_profile</a>  
-- ✉️ Email: <a href="mailto:surajgariya00@gmail.com">surajgariya00@gmail.com</a>  
+
+- 🌐 Portfolio: <a href="https://surajgariya00.github.io/my_profile/">surajgariya00.github.io/my_profile</a>
+- ✉️ Email: <a href="mailto:surajgariya00@gmail.com">surajgariya00@gmail.com</a>
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/surajgariya/">in/surajgariya</a>
+
+<p align="center">
+  <img src="./assets/snake.svg" alt="snake animation" />
+</p>
 
 <!-- Footer -->
 <p align="center">
