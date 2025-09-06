@@ -61,12 +61,12 @@
 ### 🆕 Latest repositories (auto-updated)
 
 <!-- LATEST_REPOS:start -->
+- [aao_project](https://github.com/surajgariya00/aao_project) — Autonomous Agile Orchestration (AAO) is an AI-powered pipeline that automates the role of a Scrum Master and streamlines Agile methodology into a self-orchestrating system. It replaces manual ceremonies (standups, sprint planning) with real-time insights, AI agents, and automated planning — so dev can focus on building, not bureaucracy. _(Python)_ ⭐ 0
 - [surajgariya00](https://github.com/surajgariya00/surajgariya00) — No description _(—)_ ⭐ 0
 - [referral_website](https://github.com/surajgariya00/referral_website) — Multi-page site (Dashboard, About, Team, Contact, Referral, Connect, Apply Jobs, Earn Commission, Privacy, Terms) _(JavaScript)_ ⭐ 0
 - [amazeshop](https://github.com/surajgariya00/amazeshop) — A feature-rich e‑commerce demo built with Express + SQLite on the backend and React (Vite) + Tailwind on the frontend. _(JavaScript)_ ⭐ 0
 - [portfolio](https://github.com/surajgariya00/portfolio) — Ultimate Portfolio — A modern, multi-page portfolio site with themes, animations, and offline support. _(HTML)_ ⭐ 0
 - [my_profile](https://github.com/surajgariya00/my_profile) — My personal Flutter Web portfolio — featuring projects, animations, responsive UI, and professional details. _(JavaScript)_ ⭐ 0
-- [wildfire_early_warning](https://github.com/surajgariya00/wildfire_early_warning) — - Displays active wildfire events (NASA EONET) on a map. _(Dart)_ ⭐ 0
 <!-- LATEST_REPOS:end -->
 
 > This list refreshes every ~6 hours via GitHub Actions.
